@@ -14,6 +14,8 @@ namespace ng.Net1
         {
             ConfigureAuth(app);
             //bhbhh
+            //fdfdffd
+            
         }
     }
 }
