@@ -13,6 +13,7 @@ namespace ng.Net1
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            //
         }
     }
 }
